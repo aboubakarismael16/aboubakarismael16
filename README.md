@@ -6,3 +6,5 @@
 - 👯 I’m looking to collaborate with other
 - 🥅 2021 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
+
+<img align="center" src="https://github-readme-stats.vercel.app/api/<CARD_TYPE>/?username=<USERNAME>&theme=<THEME_NAME>" />

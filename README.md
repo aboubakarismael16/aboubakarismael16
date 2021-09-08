@@ -10,5 +10,4 @@
 - ⚡ Fun fact: I love to travel
 
 
-
 ![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboubakarismael16&theme=react&show_icons=true)

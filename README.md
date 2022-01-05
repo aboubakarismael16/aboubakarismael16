@@ -4,9 +4,9 @@
 ## I’m Student, Devops, Engineer!
 - 🔭 I’m currently not working anywhere
 - ⚡ I'm Freelancer
-- 🌱 I’m currently learning everything 🤣
+- 🌱 I’m currently learning Cloud Native and DevOps
 - 👯 I’m looking to collaborate with other
-- 🥅 2021 Goals: Study and contribute to Opensource projects
+- 🥅 2022 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 
 [![Ismael's GitHub stats](https://github-readme-stats.vercel.app/api?username=aboubakarismael16&theme=react&show_icons=false)](https://github.com/aboubakarismael16)

@@ -1,11 +1,12 @@
-![](https://www.kamarupa.co.id/images/uploads/blogs/subs-banner.jpg)
+![](header_.png)
 
 ### Hi there, I’m Aboubakar Ismael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
 ## I’m Student, Devops, Engineer!
-- 🔭 I’m currently not working anywhere
+- 🔭 Interested in Cloud Native. Recent focus on backend.
+- 📚 Reading more about Golang, how the computer works.
 - ⚡ I'm Freelancer
-- 🌱 I’m currently learning Cloud Native and DevOps
-- 👯 I’m looking to collaborate with other
+- 👯 I’m looking to collaborate with others
+- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://aboubakarismael16.netlify.app/).
 - 🥅 2022 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 

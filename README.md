@@ -5,7 +5,7 @@
 - 🔭 Interested in Cloud Native. Recent focus on backend.
 - 📚 Reading more about Golang, how the computer works.
 - 👯 I’m looking to collaborate with others
-- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://aboubakarismael16.netlify.app/).
+- ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://ismael16.netlify.app/).
 - 🥅 2022 Goals: Study and contribute to Opensource projects
 - ⚡ Fun fact: I love to travel
 

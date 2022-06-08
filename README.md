@@ -1,6 +1,6 @@
 ![](header_.png)
 
-### Hi there, I’m Aboubakar Ismael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">
+### Hi there, I’m Aboubakar Ismael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px">
 ## I’m Student, Devops, Engineer!
 - 🔭 Interested in Cloud Native. Recent focus on backend.
 - 📚 Reading more about Golang, how the computer works.

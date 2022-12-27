@@ -2,7 +2,7 @@
 
 <!-- ### Hi there, I’m Aboubakar Ismael <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="10px"> -->
 ## I’m Student, Devops, Engineer!
-- 🔭 Interested in Cloud Native. Recent focus on backend.
+- 🔭 Interested in Cloud Native.
 - 📚 Reading more about Golang, how the computer works.
 - 👯 I’m looking to collaborate with others
 - ✍🏻 I write my personal thoughts on Programming & Tech in my [Personal Blog](https://ismael16.netlify.app/).
